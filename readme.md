@@ -1,4 +1,8 @@
+Importare proiect folosind GitBash:
+    - git clone https://github.com/dantudorache/API_Testing_AirportGap
 
+IDE: PyCharm Community Edition 
+     
 1. Instalarea librariilor necesare se va face in Terminal folosind urmatoarele comenzi:
     - pip install pytest
     - pip install requests
